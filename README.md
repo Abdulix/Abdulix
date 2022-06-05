@@ -11,12 +11,9 @@
 
 
 <a href="https://leetcode.com/M_Abdul_Mughni/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="Abdulix" height="30" width="40" /></a>
-
 <a href="https://twitter.com/AbdulMughni978" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Abdulix" height="30" width="40" /></a>
-
-
 <a href="https://www.instagram.com/abdulmughni978/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Abdulix" height="30" width="40" /></a>
-
+<a href="https://www.facebook.com/abdulmughni978/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Abdulix" height="30" width="40" /></a>
 
 </p>
 <br>
