@@ -33,4 +33,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abdulix&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdulix&icon=5&color=6)](https://visitcount.itsvg.in)
+
