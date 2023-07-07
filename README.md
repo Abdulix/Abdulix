@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Abdul Mughni👋<a href="#"></h1>
   </div>
 <p align="center">
-  <a href="https://github.com/Abdulix"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML|%20MYSQL|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Abdulix"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Junior+Software+Engineer;DS%20|%20AI%20|%20ML|%20MYSQL|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
 
@@ -11,11 +11,12 @@
 
 
 # 💫 About Me:
-🔭I'm currently working on Frontend development using Reactjs.<br>
-🤝I'm open to collaborating on projects related to the frontend.<br>
-🌱I'm currently grinding Reactjs and new technologies related to frontend.<br>
+🔭I'm currently working on data science projects.<br>
+🤝I'm open to collaborating on projects related to the web development and data science.<br>
+🌱I'm grinding machine learning algorithms.<br>
 💬Ask me about anything related to Web development, Artificial Intelligence , and Machine learning.<br>
-✉️ You can mail me at mughnisohail@gmail.com<br>⚡Fun fact: I watch Animes.
+✉️ You can mail me at mughnisohail@gmail.com<br>
+⚡Fun fact: I love traveling.
 
 
 ## 🌐 Socials:
