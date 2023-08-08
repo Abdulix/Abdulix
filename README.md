@@ -20,6 +20,7 @@
 
 
 ## 🌐 Socials:
+Lets connect and have a chat!<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulmughni978 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmughni978 ) 
 
 # 💻 Tech Stack:
