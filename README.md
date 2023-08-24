@@ -6,9 +6,7 @@
   <a href="https://github.com/Abdulix"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Junior+Software+Engineer;DS%20|%20AI%20|%20ML|%20MYSQL|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
-
 <br>
-
 
 # 💫 About Me:
 🔭I'm currently working on data science projects.<br>
@@ -18,9 +16,11 @@
 ✉️ You can mail me at mughnisohail@gmail.com<br>
 ⚡Fun fact: I love traveling.
 
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abd.mughni) 
 
 ## 🌐 Socials:
-Lets connect and have a chat!<br>
+Let's connect and have a chat!<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdulmughni978 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulmughni978 ) 
 
 # 💻 Tech Stack:
