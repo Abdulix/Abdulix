@@ -9,11 +9,11 @@
 <br>
 
 # 💫 About Me:
-🔭I'm currently working on data science projects.<br>
-🤝I'm open to collaborating on projects related to the web development and data science.<br>
-🌱I'm grinding machine learning algorithms.<br>
-💬Ask me about anything related to Web development, Artificial Intelligence , and Machine learning.<br>
-✉️ You can mail me at mughnisohail@gmail.com<br>
+🔭I'm currently working on machine learning projects.<br>
+🤝I'm open to collaborating on projects related to web development, data science, and machine learning.<br>
+🌱I'm grinding deep learning models.<br>
+💬Ask me about anything related to Web development, Artificial Intelligence, and Machine learning.<br>
+✉️ You can mail me at mughniqureshi@gmail.com<br>
 ⚡Fun fact: I love traveling.
 
 ## 💰 You can help me by Donating
