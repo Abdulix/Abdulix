@@ -1,4 +1,9 @@
 <body>
+   <p align="center">
+  Views<br>
+  <img src="https://profile-counter.glitch.me/Abdulix/count.svg"/>
+</p>
+  
   <div align="center">
     <h1> Hi there, I'm Abdul Mughni👋<a href="#"></h1>
   </div>
@@ -6,6 +11,7 @@
   <a href="https://github.com/Abdulix"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Junior+Software+Engineer;DS%20|%20AI%20|%20ML|%20MYSQL|%20Enthusiast;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
   
 </p>
+</body>
 <br>
 
 # 💫 About Me:
@@ -16,7 +22,7 @@
 ✉️ You can mail me at mughniqureshi@gmail.com<br>
 ⚡Fun fact: I love traveling.
 
-## 💰 You can help me by Donating
+## 💰 You can Buy me a Coffee
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abd.mughni) 
 
 ## 🌐 Socials:
